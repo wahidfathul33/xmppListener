@@ -1,0 +1,46 @@
+plugins {
+	id 'org.springframework.boot' version '2.5.1'
+	id 'io.spring.dependency-management' version '1.0.11.RELEASE'
+	id 'java'
+}
+
+group = 'vgame'
+
+repositories {
+	mavenCentral()
+}
+
+dependencies {
+	implementation 'org.springframework.boot:spring-boot-starter'
+	testImplementation 'org.springframework.boot:spring-boot-starter-test'
+
+	// https://mvnrepository.com/artifact/com.squareup.okhttp3/okhttp
+	implementation group: 'com.squareup.okhttp3', name: 'okhttp', version: '4.9.0'
+
+	// https://mvnrepository.com/artifact/log4j/log4j
+	implementation group: 'log4j', name: 'log4j', version: '1.2.17'
+
+//	// https://mvnrepository.com/artifact/org.igniterealtime.smack/smack-core
+//	implementation group: 'org.igniterealtime.smack', name: 'smack-core', version: '4.4.2'
+//	// https://mvnrepository.com/artifact/org.igniterealtime.smack/smack-im
+//	implementation group: 'org.igniterealtime.smack', name: 'smack-im', version: '4.4.2'
+//	// https://mvnrepository.com/artifact/org.igniterealtime.smack/smack-tcp
+//	implementation group: 'org.igniterealtime.smack', name: 'smack-tcp', version: '4.4.2'
+//	// https://mvnrepository.com/artifact/org.igniterealtime.smack/smack-extensions
+//	implementation group: 'org.igniterealtime.smack', name: 'smack-extensions', version: '4.4.2'
+//	// https://mvnrepository.com/artifact/org.igniterealtime.smack/smack-sasl-provided
+//	implementation group: 'org.igniterealtime.smack', name: 'smack-sasl-provided', version: '4.4.2'
+
+	implementation group: 'org.igniterealtime.smack', name: 'smack-core', version: '4.3.5'
+	implementation group: 'org.igniterealtime.smack', name: 'smack-tcp', version: '4.3.5'
+	implementation group: 'org.igniterealtime.smack', name: 'smack-im', version: '4.3.5'
+	implementation group: 'org.igniterealtime.smack', name: 'smack-extensions', version: '4.3.5'
+	implementation group: 'org.igniterealtime.smack', name: 'smack-sasl-provided', version: '4.3.5'
+	implementation group: 'org.igniterealtime.smack', name: 'smack-java7', version: '4.3.5'
+
+
+}
+
+test {
+	useJUnitPlatform()
+}

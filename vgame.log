@@ -1,0 +1,65 @@
+15:59:13,363  INFO XmppListenerApplication:25 - Logging in to XMPP . . . .
+16:13:26,187  INFO XmppListenerApplication:28 - Logging in to XMPP . . . .
+16:13:55,193  INFO XmppListenerApplication:71 - Message from dihaw@xabber.org : VAS100#teszzz#usergame1#081234567890
+16:13:55,194  INFO XmppListenerApplication:73 - Parsed Message to request : 139.59.102.255:2303/api/purchase
+16:13:55,459  INFO XmppListenerApplication:19 - New Request URL = http://139.59.102.255:2303/api/purchase/VAS100/teszzz/usergame1/081234567890
+16:13:56,154  INFO XmppListenerApplication:27 - Response : {"voucher":{"hp":"081234567890","nominal":100},"message":"Product unavaiable, please try again later.","trxId":"teszzz","saldoAwal":"0","saldoAkhir":"0","rc":"0005","status":"GAGAL"}
+16:13:56,158  INFO XmppListenerApplication:98 - Sending Response Message To : {"voucher":{"hp":"081234567890","nominal":100},"message":"Product unavaiable, please try again later.","trxId":"teszzz","saldoAwal":"0","saldoAkhir":"0","rc":"0005","status":"GAGAL"}
+16:13:56,172  INFO XmppListenerApplication:104 - Message sent
+16:21:31,983  INFO XmppListenerApplication:28 - Logging in to XMPP . . . .
+16:21:56,788  INFO XmppListenerApplication:28 - Logging in to XMPP . . . .
+16:23:02,236  INFO XmppListenerApplication:28 - Logging in to XMPP . . . .
+17:19:52,575  INFO XmppListenerApplication:28 - Logging in to XMPP . . . .
+17:21:04,135  INFO XmppListenerApplication:28 - Logging in to XMPP . . . .
+17:21:24,449  INFO XmppListenerApplication:72 - Message from dihaw@xabber.org : VAS100#teszzz#usergame1#081234567890
+17:21:24,449  INFO XmppListenerApplication:74 - Parsed Message to request : 139.59.102.255:2303/api/purchase
+17:21:24,672  INFO XmppListenerApplication:19 - New Request URL = http://139.59.102.255:2303/api/purchase/VAS100/teszzz/usergame1/081234567890
+17:21:25,268  INFO XmppListenerApplication:27 - Response : {"voucher":{"hp":"081234567890","nominal":100},"message":"Product unavaiable, please try again later.","trxId":"teszzz","saldoAwal":"0","saldoAkhir":"0","rc":"0005","status":"GAGAL"}
+17:21:25,270  INFO XmppListenerApplication:99 - Sending Response Message To : {"voucher":{"hp":"081234567890","nominal":100},"message":"Product unavaiable, please try again later.","trxId":"teszzz","saldoAwal":"0","saldoAkhir":"0","rc":"0005","status":"GAGAL"}
+17:21:25,273  INFO XmppListenerApplication:105 - Message sent
+17:25:20,928  INFO XmppListenerApplication:28 - Logging in to XMPP . . . .
+17:25:56,158  INFO XmppListenerApplication:28 - Logging in to XMPP . . . .
+17:29:20,945  INFO XmppListenerApplication:28 - Logging in to XMPP . . . .
+17:29:44,496  INFO XmppListenerApplication:70 - Message from dihaw@xabber.org : VAS100#teszzz#usergame1#081234567890
+17:29:44,497  INFO XmppListenerApplication:72 - Parsed Message to request : 139.59.102.255:2303/api/purchase
+17:29:44,753  INFO XmppListenerApplication:19 - New Request URL = http://139.59.102.255:2303/api/purchase/VAS100/teszzz/usergame1/081234567890
+17:29:45,380  INFO XmppListenerApplication:27 - Response : {"voucher":{"hp":"081234567890","nominal":100},"message":"Product unavaiable, please try again later.","trxId":"teszzz","saldoAwal":"0","saldoAkhir":"0","rc":"0005","status":"GAGAL"}
+17:29:45,381  INFO XmppListenerApplication:97 - Sending Response Message To : {"voucher":{"hp":"081234567890","nominal":100},"message":"Product unavaiable, please try again later.","trxId":"teszzz","saldoAwal":"0","saldoAkhir":"0","rc":"0005","status":"GAGAL"}
+17:29:45,383  INFO XmppListenerApplication:103 - Message sent
+17:35:46,123  INFO XmppListenerApplication:28 - Logging in to XMPP . . . .
+17:37:48,815  INFO XmppListenerApplication:28 - Logging in to XMPP . . . .
+17:38:33,500  INFO XmppListenerApplication:28 - Logging in to XMPP . . . .
+17:40:23,441  INFO XmppListenerApplication:28 - Logging in to XMPP . . . .
+17:40:38,665  INFO XmppListenerApplication:69 - Message from dihaw@xabber.org : VAS100#teszzz#usergame1#081234567890
+17:40:38,665  INFO XmppListenerApplication:71 - Parsed Message to request : 139.59.102.255:2303/api/purchase
+17:40:38,898  INFO XmppListenerApplication:19 - New Request URL = http://139.59.102.255:2303/api/purchase/VAS100/teszzz/usergame1/081234567890
+17:40:39,489  INFO XmppListenerApplication:27 - Response : {"voucher":{"hp":"081234567890","nominal":100},"message":"Product unavaiable, please try again later.","trxId":"teszzz","saldoAwal":"0","saldoAkhir":"0","rc":"0005","status":"GAGAL"}
+17:40:39,490  INFO XmppListenerApplication:100 - Sending Response Message To : {"voucher":{"hp":"081234567890","nominal":100},"message":"Product unavaiable, please try again later.","trxId":"teszzz","saldoAwal":"0","saldoAkhir":"0","rc":"0005","status":"GAGAL"}
+17:40:39,494  INFO XmppListenerApplication:106 - Message sent
+17:41:01,251  INFO XmppListenerApplication:28 - Logging in to XMPP . . . .
+17:41:10,977  INFO XmppListenerApplication:69 - Message from dihaw@xabber.org : VAS100#teszzz#usergame1#081234567890
+17:41:10,978  INFO XmppListenerApplication:71 - Parsed Message to request : 139.59.102.255:2303/api/purchase
+17:41:11,215  INFO XmppListenerApplication:19 - New Request URL = http://139.59.102.255:2303/api/purchase/VAS100/teszzz/usergame1/081234567890
+17:41:12,037  INFO XmppListenerApplication:27 - Response : {"voucher":{"hp":"081234567890","nominal":100},"message":"Product unavaiable, please try again later.","trxId":"teszzz","saldoAwal":"0","saldoAkhir":"0","rc":"0005","status":"GAGAL"}
+17:41:12,039  INFO XmppListenerApplication:100 - Sending Response Message To : {"voucher":{"hp":"081234567890","nominal":100},"message":"Product unavaiable, please try again later.","trxId":"teszzz","saldoAwal":"0","saldoAkhir":"0","rc":"0005","status":"GAGAL"}
+17:41:12,044  INFO XmppListenerApplication:106 - Message sent
+17:41:46,464  INFO XmppListenerApplication:28 - Logging in to XMPP . . . .
+17:41:53,729  INFO XmppListenerApplication:69 - Message from dihaw@xabber.org : VAS100#teszzz#usergame1#081234567890
+17:41:53,729  INFO XmppListenerApplication:71 - Parsed Message to request : 139.59.102.255:2303/api/purchase
+17:41:53,958  INFO XmppListenerApplication:19 - New Request URL = http://139.59.102.255:2303/api/purchase/VAS100/teszzz/usergame1/081234567890
+17:41:54,687  INFO XmppListenerApplication:27 - Response : {"voucher":{"hp":"081234567890","nominal":100},"message":"Product unavaiable, please try again later.","trxId":"teszzz","saldoAwal":"0","saldoAkhir":"0","rc":"0005","status":"GAGAL"}
+17:41:54,688  INFO XmppListenerApplication:99 - Sending Response Message To : {"voucher":{"hp":"081234567890","nominal":100},"message":"Product unavaiable, please try again later.","trxId":"teszzz","saldoAwal":"0","saldoAkhir":"0","rc":"0005","status":"GAGAL"}
+17:41:54,695  INFO XmppListenerApplication:105 - Message sent
+17:43:21,093  INFO XmppListenerApplication:28 - Logging in to XMPP . . . .
+17:43:29,066  INFO XmppListenerApplication:69 - Message from dihaw@xabber.org : VAS100#teszzz#usergame1#081234567890
+17:43:29,066  INFO XmppListenerApplication:71 - Parsed Message to request : 139.59.102.255:2303/api/purchase
+17:43:29,284  INFO XmppListenerApplication:19 - New Request URL = http://139.59.102.255:2303/api/purchase/VAS100/teszzz/usergame1/081234567890
+17:43:54,271  INFO XmppListenerApplication:88 - Disconnected
+17:44:01,980  INFO XmppListenerApplication:28 - Logging in to XMPP . . . .
+17:44:12,114  INFO XmppListenerApplication:69 - Message from dihaw@xabber.org : VAS100#teszzz#usergame1#081234567890
+17:44:12,115  INFO XmppListenerApplication:71 - Parsed Message to request : 139.59.102.255:2303/api/purchase
+17:44:12,318  INFO XmppListenerApplication:19 - New Request URL = http://139.59.102.255:2303/api/purchase/VAS100/teszzz/usergame1/081234567890
+17:44:13,187  INFO XmppListenerApplication:27 - Response : {"voucher":{"hp":"081234567890","nominal":100},"message":"Product unavaiable, please try again later.","trxId":"teszzz","saldoAwal":"0","saldoAkhir":"0","rc":"0005","status":"GAGAL"}
+17:44:13,188  INFO XmppListenerApplication:102 - Sending Response Message To : {"voucher":{"hp":"081234567890","nominal":100},"message":"Product unavaiable, please try again later.","trxId":"teszzz","saldoAwal":"0","saldoAkhir":"0","rc":"0005","status":"GAGAL"}
+17:44:13,191  INFO XmppListenerApplication:108 - Message sent
+17:44:51,552  INFO XmppListenerApplication:88 - Disconnected
